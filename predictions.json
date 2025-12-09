@@ -1,0 +1,2532 @@
+[
+  {
+    "label": "Ball out of play",
+    "score": 0.6537792086601257,
+    "timestamp": 30.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6563857197761536,
+    "timestamp": 31.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6579121947288513,
+    "timestamp": 32.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6586475968360901,
+    "timestamp": 33.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6557105183601379,
+    "timestamp": 34.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6537542939186096,
+    "timestamp": 35.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6459581851959229,
+    "timestamp": 36.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6464461088180542,
+    "timestamp": 37.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6500757932662964,
+    "timestamp": 38.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.652553379535675,
+    "timestamp": 39.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.644966185092926,
+    "timestamp": 40.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6299211382865906,
+    "timestamp": 43.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6356328129768372,
+    "timestamp": 44.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6357036232948303,
+    "timestamp": 45.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6451325416564941,
+    "timestamp": 46.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6491147875785828,
+    "timestamp": 49.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.662330687046051,
+    "timestamp": 50.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6629694104194641,
+    "timestamp": 51.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6635835766792297,
+    "timestamp": 52.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6631470322608948,
+    "timestamp": 54.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6454696655273438,
+    "timestamp": 57.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.655949592590332,
+    "timestamp": 58.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6021243333816528,
+    "timestamp": 116.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6454898715019226,
+    "timestamp": 118.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6592141389846802,
+    "timestamp": 120.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6550696492195129,
+    "timestamp": 121.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6468656659126282,
+    "timestamp": 124.5
+  },
+  {
+    "label": "Shots off target",
+    "score": 0.5874137282371521,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Clearance",
+    "score": 0.5920530557632446,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6733437776565552,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Throw-in",
+    "score": 0.5847043395042419,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5898751616477966,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Direct free-kick",
+    "score": 0.5826231241226196,
+    "timestamp": 128.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5896932482719421,
+    "timestamp": 129.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6181236505508423,
+    "timestamp": 144.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6043282747268677,
+    "timestamp": 145.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5973792672157288,
+    "timestamp": 146.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6624482870101929,
+    "timestamp": 188.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6608103513717651,
+    "timestamp": 189.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5851336121559143,
+    "timestamp": 193.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5911117196083069,
+    "timestamp": 195.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6362718939781189,
+    "timestamp": 206.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.639387309551239,
+    "timestamp": 207.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6368908286094666,
+    "timestamp": 208.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6387680768966675,
+    "timestamp": 209.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.641322672367096,
+    "timestamp": 210.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6412746906280518,
+    "timestamp": 211.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6408483982086182,
+    "timestamp": 212.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6252498030662537,
+    "timestamp": 236.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6423320770263672,
+    "timestamp": 237.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6564993262290955,
+    "timestamp": 238.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6613239049911499,
+    "timestamp": 240.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6609336733818054,
+    "timestamp": 241.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6657959818840027,
+    "timestamp": 244.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.66546231508255,
+    "timestamp": 247.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6254522204399109,
+    "timestamp": 305.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6638240814208984,
+    "timestamp": 309.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6005030870437622,
+    "timestamp": 312.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5897558927536011,
+    "timestamp": 313.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5995461940765381,
+    "timestamp": 325.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5843974947929382,
+    "timestamp": 335.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5841009020805359,
+    "timestamp": 336.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6324090957641602,
+    "timestamp": 339.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6334503293037415,
+    "timestamp": 340.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6411867737770081,
+    "timestamp": 341.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6350584030151367,
+    "timestamp": 342.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6334884166717529,
+    "timestamp": 343.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5868942737579346,
+    "timestamp": 421.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6686221361160278,
+    "timestamp": 429.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.593114972114563,
+    "timestamp": 429.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6549026370048523,
+    "timestamp": 431.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.651380181312561,
+    "timestamp": 432.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6490726470947266,
+    "timestamp": 433.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6066061854362488,
+    "timestamp": 481.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6628785133361816,
+    "timestamp": 486.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5906021595001221,
+    "timestamp": 486.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6682187914848328,
+    "timestamp": 489.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.608105480670929,
+    "timestamp": 556.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6201552152633667,
+    "timestamp": 557.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6138437390327454,
+    "timestamp": 558.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6220282912254333,
+    "timestamp": 559.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6294983625411987,
+    "timestamp": 560.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6507410407066345,
+    "timestamp": 562.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6489977836608887,
+    "timestamp": 563.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.649391770362854,
+    "timestamp": 564.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.649692952632904,
+    "timestamp": 565.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6460625529289246,
+    "timestamp": 566.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6484360098838806,
+    "timestamp": 568.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.650428056716919,
+    "timestamp": 569.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6517992615699768,
+    "timestamp": 570.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6513192653656006,
+    "timestamp": 571.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6486090421676636,
+    "timestamp": 660.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.642089307308197,
+    "timestamp": 661.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.620316207408905,
+    "timestamp": 663.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5951265096664429,
+    "timestamp": 688.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6016138792037964,
+    "timestamp": 689.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6092761754989624,
+    "timestamp": 690.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6169637441635132,
+    "timestamp": 691.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6161565184593201,
+    "timestamp": 692.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6201102137565613,
+    "timestamp": 693.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6213111877441406,
+    "timestamp": 694.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6211639642715454,
+    "timestamp": 695.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6230493187904358,
+    "timestamp": 696.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6180592775344849,
+    "timestamp": 697.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6102144122123718,
+    "timestamp": 698.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.616860032081604,
+    "timestamp": 699.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6093406677246094,
+    "timestamp": 700.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6067476868629456,
+    "timestamp": 701.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5944606065750122,
+    "timestamp": 709.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6387830376625061,
+    "timestamp": 710.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6197412610054016,
+    "timestamp": 712.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6184252500534058,
+    "timestamp": 713.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6127333641052246,
+    "timestamp": 716.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6144883632659912,
+    "timestamp": 717.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6187565922737122,
+    "timestamp": 718.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.660906970500946,
+    "timestamp": 720.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6618212461471558,
+    "timestamp": 721.5
+  },
+  {
+    "label": "Goal",
+    "score": 0.582306444644928,
+    "timestamp": 724.5
+  },
+  {
+    "label": "Goal",
+    "score": 0.5841003060340881,
+    "timestamp": 726.0
+  },
+  {
+    "label": "Goal",
+    "score": 0.5918094515800476,
+    "timestamp": 727.0
+  },
+  {
+    "label": "Goal",
+    "score": 0.6000750064849854,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Shots off target",
+    "score": 0.58437579870224,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6801131367683411,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.6015811562538147,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Red card",
+    "score": 0.5910565853118896,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Yellow->red card",
+    "score": 0.5825749635696411,
+    "timestamp": 729.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6676609516143799,
+    "timestamp": 731.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6683470010757446,
+    "timestamp": 732.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6693809032440186,
+    "timestamp": 733.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6699064373970032,
+    "timestamp": 734.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6694768667221069,
+    "timestamp": 735.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6691898703575134,
+    "timestamp": 736.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6686854958534241,
+    "timestamp": 737.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6673632860183716,
+    "timestamp": 738.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6659806370735168,
+    "timestamp": 739.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6641625165939331,
+    "timestamp": 740.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6034544110298157,
+    "timestamp": 762.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.622481107711792,
+    "timestamp": 763.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.654113233089447,
+    "timestamp": 766.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6570671200752258,
+    "timestamp": 769.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6705336570739746,
+    "timestamp": 772.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.671154260635376,
+    "timestamp": 773.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.631289005279541,
+    "timestamp": 777.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6461060047149658,
+    "timestamp": 778.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5860404968261719,
+    "timestamp": 838.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6219529509544373,
+    "timestamp": 893.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5927057862281799,
+    "timestamp": 900.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6179848313331604,
+    "timestamp": 901.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6695019006729126,
+    "timestamp": 909.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6613692045211792,
+    "timestamp": 911.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6606855392456055,
+    "timestamp": 912.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6475816965103149,
+    "timestamp": 916.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6397318243980408,
+    "timestamp": 917.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6298691034317017,
+    "timestamp": 918.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6170903444290161,
+    "timestamp": 919.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6121393442153931,
+    "timestamp": 920.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6070586442947388,
+    "timestamp": 921.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6108459234237671,
+    "timestamp": 922.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6268764734268188,
+    "timestamp": 924.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6451779007911682,
+    "timestamp": 926.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6466019749641418,
+    "timestamp": 927.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6474077105522156,
+    "timestamp": 928.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.649681031703949,
+    "timestamp": 929.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6520302891731262,
+    "timestamp": 930.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6550350189208984,
+    "timestamp": 931.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.656482994556427,
+    "timestamp": 932.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6582766771316528,
+    "timestamp": 933.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6591079831123352,
+    "timestamp": 934.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6593230366706848,
+    "timestamp": 935.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6579923629760742,
+    "timestamp": 936.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6547128558158875,
+    "timestamp": 937.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6497964262962341,
+    "timestamp": 938.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6491230726242065,
+    "timestamp": 939.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6453644633293152,
+    "timestamp": 940.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6476967334747314,
+    "timestamp": 941.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6420747637748718,
+    "timestamp": 942.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6340415477752686,
+    "timestamp": 943.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6455928087234497,
+    "timestamp": 953.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6076080799102783,
+    "timestamp": 957.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6192336082458496,
+    "timestamp": 958.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6135496497154236,
+    "timestamp": 960.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6317000389099121,
+    "timestamp": 961.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6647306084632874,
+    "timestamp": 969.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6406638622283936,
+    "timestamp": 986.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6407889723777771,
+    "timestamp": 987.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6538695693016052,
+    "timestamp": 1121.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6602134704589844,
+    "timestamp": 1123.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6614006757736206,
+    "timestamp": 1125.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6624805331230164,
+    "timestamp": 1126.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6611368060112,
+    "timestamp": 1127.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6618735194206238,
+    "timestamp": 1129.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6680970191955566,
+    "timestamp": 1130.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6710436344146729,
+    "timestamp": 1132.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6715425252914429,
+    "timestamp": 1134.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6605893969535828,
+    "timestamp": 1137.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6549687385559082,
+    "timestamp": 1138.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6679866313934326,
+    "timestamp": 1140.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.6019529700279236,
+    "timestamp": 1140.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6634118556976318,
+    "timestamp": 1141.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5917268991470337,
+    "timestamp": 1141.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6632136702537537,
+    "timestamp": 1144.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.6059443950653076,
+    "timestamp": 1147.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6725567579269409,
+    "timestamp": 1148.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6727703213691711,
+    "timestamp": 1149.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6511922478675842,
+    "timestamp": 1151.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6509952545166016,
+    "timestamp": 1152.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6502242684364319,
+    "timestamp": 1153.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6454830169677734,
+    "timestamp": 1154.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6163884401321411,
+    "timestamp": 1168.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6122204661369324,
+    "timestamp": 1169.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6260534524917603,
+    "timestamp": 1171.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6250805258750916,
+    "timestamp": 1172.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6227184534072876,
+    "timestamp": 1173.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6154956221580505,
+    "timestamp": 1174.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6140149235725403,
+    "timestamp": 1175.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6087040901184082,
+    "timestamp": 1176.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5827927589416504,
+    "timestamp": 1179.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6086467504501343,
+    "timestamp": 1181.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6188679933547974,
+    "timestamp": 1182.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6310049891471863,
+    "timestamp": 1183.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6198421716690063,
+    "timestamp": 1184.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.616097629070282,
+    "timestamp": 1185.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6229934692382812,
+    "timestamp": 1186.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6077575087547302,
+    "timestamp": 1200.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6229963898658752,
+    "timestamp": 1201.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6209766268730164,
+    "timestamp": 1204.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6023672819137573,
+    "timestamp": 1208.0
+  },
+  {
+    "label": "Goal",
+    "score": 0.5845011472702026,
+    "timestamp": 1209.0
+  },
+  {
+    "label": "Clearance",
+    "score": 0.583624541759491,
+    "timestamp": 1209.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5849363207817078,
+    "timestamp": 1209.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6475135684013367,
+    "timestamp": 1246.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.645861804485321,
+    "timestamp": 1247.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6554121375083923,
+    "timestamp": 1249.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6630408763885498,
+    "timestamp": 1250.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6649331450462341,
+    "timestamp": 1251.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6666393876075745,
+    "timestamp": 1252.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6636844873428345,
+    "timestamp": 1255.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6537725925445557,
+    "timestamp": 1257.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6536117792129517,
+    "timestamp": 1258.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5976139903068542,
+    "timestamp": 1260.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.599802553653717,
+    "timestamp": 1266.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6069775223731995,
+    "timestamp": 1267.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6101778149604797,
+    "timestamp": 1268.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6100372672080994,
+    "timestamp": 1269.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6301887035369873,
+    "timestamp": 1295.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6533998250961304,
+    "timestamp": 1298.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6559070944786072,
+    "timestamp": 1299.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6519553661346436,
+    "timestamp": 1300.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6528520584106445,
+    "timestamp": 1301.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6392244100570679,
+    "timestamp": 1303.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5882163643836975,
+    "timestamp": 1313.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6356964111328125,
+    "timestamp": 1355.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6319632530212402,
+    "timestamp": 1356.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6278233528137207,
+    "timestamp": 1357.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6330741047859192,
+    "timestamp": 1358.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6408283114433289,
+    "timestamp": 1359.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6438866257667542,
+    "timestamp": 1360.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.647851824760437,
+    "timestamp": 1361.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6489363312721252,
+    "timestamp": 1362.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6521453261375427,
+    "timestamp": 1363.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6459996700286865,
+    "timestamp": 1364.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6462306380271912,
+    "timestamp": 1365.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6446783542633057,
+    "timestamp": 1366.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5995378494262695,
+    "timestamp": 1369.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6129504442214966,
+    "timestamp": 1370.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6002894639968872,
+    "timestamp": 1371.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6301819682121277,
+    "timestamp": 1408.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6295500993728638,
+    "timestamp": 1409.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6318364143371582,
+    "timestamp": 1410.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6314764022827148,
+    "timestamp": 1411.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6133981943130493,
+    "timestamp": 1440.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6187033653259277,
+    "timestamp": 1441.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6325148344039917,
+    "timestamp": 1446.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5942071080207825,
+    "timestamp": 1449.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6326451301574707,
+    "timestamp": 1489.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.65630042552948,
+    "timestamp": 1491.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5832502841949463,
+    "timestamp": 1501.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5882797241210938,
+    "timestamp": 1555.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6059421896934509,
+    "timestamp": 1558.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6346705555915833,
+    "timestamp": 1560.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6293498277664185,
+    "timestamp": 1561.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.608601987361908,
+    "timestamp": 1563.0
+  },
+  {
+    "label": "Kick-off",
+    "score": 0.5838949084281921,
+    "timestamp": 1568.0
+  },
+  {
+    "label": "Clearance",
+    "score": 0.5820844173431396,
+    "timestamp": 1568.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6607084274291992,
+    "timestamp": 1620.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6610590815544128,
+    "timestamp": 1621.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5825953483581543,
+    "timestamp": 1625.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5824499130249023,
+    "timestamp": 1626.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6705855131149292,
+    "timestamp": 1627.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.67294842004776,
+    "timestamp": 1629.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6540617346763611,
+    "timestamp": 1631.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.656197190284729,
+    "timestamp": 1632.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6570679545402527,
+    "timestamp": 1633.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6581640243530273,
+    "timestamp": 1634.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6573385000228882,
+    "timestamp": 1635.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6589382290840149,
+    "timestamp": 1636.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6591918468475342,
+    "timestamp": 1637.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6593832969665527,
+    "timestamp": 1638.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6602033972740173,
+    "timestamp": 1639.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6599134802818298,
+    "timestamp": 1640.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6600396633148193,
+    "timestamp": 1641.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6606892943382263,
+    "timestamp": 1642.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6602884531021118,
+    "timestamp": 1643.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.660931408405304,
+    "timestamp": 1644.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.656731367111206,
+    "timestamp": 1646.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6552796959877014,
+    "timestamp": 1647.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6525530815124512,
+    "timestamp": 1648.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6306126117706299,
+    "timestamp": 1652.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5962933897972107,
+    "timestamp": 1655.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5833154320716858,
+    "timestamp": 1688.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5929017066955566,
+    "timestamp": 1721.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6080417633056641,
+    "timestamp": 1722.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6165178418159485,
+    "timestamp": 1723.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6214224696159363,
+    "timestamp": 1725.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6346670985221863,
+    "timestamp": 1726.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6305765509605408,
+    "timestamp": 1727.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.63747239112854,
+    "timestamp": 1729.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6621208786964417,
+    "timestamp": 1730.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6636912822723389,
+    "timestamp": 1731.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6627713441848755,
+    "timestamp": 1732.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6623015403747559,
+    "timestamp": 1733.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6555284857749939,
+    "timestamp": 1737.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.659767746925354,
+    "timestamp": 1738.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6633257269859314,
+    "timestamp": 1740.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5938769578933716,
+    "timestamp": 1740.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6607968211174011,
+    "timestamp": 1741.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5849699974060059,
+    "timestamp": 1741.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6640519499778748,
+    "timestamp": 1745.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6642298698425293,
+    "timestamp": 1747.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5936701893806458,
+    "timestamp": 1796.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6499935984611511,
+    "timestamp": 1798.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6658791303634644,
+    "timestamp": 1800.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5873540639877319,
+    "timestamp": 1800.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6658396124839783,
+    "timestamp": 1801.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5862303376197815,
+    "timestamp": 1801.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6673905849456787,
+    "timestamp": 1804.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.598753035068512,
+    "timestamp": 1805.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6675838232040405,
+    "timestamp": 1806.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6703426241874695,
+    "timestamp": 1807.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.6073850989341736,
+    "timestamp": 1808.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6373331546783447,
+    "timestamp": 1811.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5893478989601135,
+    "timestamp": 1846.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.596828043460846,
+    "timestamp": 1847.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6070775389671326,
+    "timestamp": 1944.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6414560079574585,
+    "timestamp": 1946.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6454351544380188,
+    "timestamp": 1947.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6485281586647034,
+    "timestamp": 1948.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6502602100372314,
+    "timestamp": 1949.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6503658294677734,
+    "timestamp": 1950.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6559620499610901,
+    "timestamp": 1952.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6579973101615906,
+    "timestamp": 1953.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6591014862060547,
+    "timestamp": 1954.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6591057777404785,
+    "timestamp": 1955.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6589834690093994,
+    "timestamp": 1956.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6600654721260071,
+    "timestamp": 1957.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6592199206352234,
+    "timestamp": 1958.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6590889692306519,
+    "timestamp": 1959.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6495914459228516,
+    "timestamp": 1961.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6214901208877563,
+    "timestamp": 1963.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6058040857315063,
+    "timestamp": 1966.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6010870337486267,
+    "timestamp": 1967.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6060873866081238,
+    "timestamp": 1969.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6642521619796753,
+    "timestamp": 1972.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6640113592147827,
+    "timestamp": 1973.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.661978542804718,
+    "timestamp": 1975.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6577603220939636,
+    "timestamp": 1977.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6627556085586548,
+    "timestamp": 1978.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6223797798156738,
+    "timestamp": 1980.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6175624132156372,
+    "timestamp": 1981.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6264067888259888,
+    "timestamp": 1985.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6179891228675842,
+    "timestamp": 1988.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6195045113563538,
+    "timestamp": 1989.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5915477275848389,
+    "timestamp": 2008.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6140131950378418,
+    "timestamp": 2010.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6070173978805542,
+    "timestamp": 2011.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.586371123790741,
+    "timestamp": 2013.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.584074079990387,
+    "timestamp": 2014.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5909472107887268,
+    "timestamp": 2019.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5875251889228821,
+    "timestamp": 2020.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5898672938346863,
+    "timestamp": 2021.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6141811609268188,
+    "timestamp": 2023.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5883026719093323,
+    "timestamp": 2029.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6513341665267944,
+    "timestamp": 2035.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.65143883228302,
+    "timestamp": 2036.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6491073966026306,
+    "timestamp": 2037.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6556439995765686,
+    "timestamp": 2038.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6617618203163147,
+    "timestamp": 2040.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6620771884918213,
+    "timestamp": 2041.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6635563969612122,
+    "timestamp": 2044.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6636759638786316,
+    "timestamp": 2046.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6647994518280029,
+    "timestamp": 2047.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5957647562026978,
+    "timestamp": 2081.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5912345051765442,
+    "timestamp": 2104.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5824941396713257,
+    "timestamp": 2109.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.618505597114563,
+    "timestamp": 2116.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6184703707695007,
+    "timestamp": 2117.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5935987234115601,
+    "timestamp": 2165.5
+  },
+  {
+    "label": "Foul",
+    "score": 0.5987938642501831,
+    "timestamp": 2167.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6641220450401306,
+    "timestamp": 2168.0
+  },
+  {
+    "label": "Foul",
+    "score": 0.5959643125534058,
+    "timestamp": 2168.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.664453387260437,
+    "timestamp": 2169.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6602935791015625,
+    "timestamp": 2171.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.661530613899231,
+    "timestamp": 2172.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6612916588783264,
+    "timestamp": 2173.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.590319037437439,
+    "timestamp": 2184.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6334100961685181,
+    "timestamp": 2188.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6326571702957153,
+    "timestamp": 2189.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6291184425354004,
+    "timestamp": 2190.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6261991858482361,
+    "timestamp": 2191.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6544630527496338,
+    "timestamp": 2297.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6583648324012756,
+    "timestamp": 2299.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6592254042625427,
+    "timestamp": 2300.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6594643592834473,
+    "timestamp": 2301.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.65936678647995,
+    "timestamp": 2302.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6606401801109314,
+    "timestamp": 2304.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6607928276062012,
+    "timestamp": 2305.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6611006259918213,
+    "timestamp": 2306.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6611486077308655,
+    "timestamp": 2307.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6613321304321289,
+    "timestamp": 2308.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6614490151405334,
+    "timestamp": 2309.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6613243222236633,
+    "timestamp": 2310.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6602309346199036,
+    "timestamp": 2311.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6583627462387085,
+    "timestamp": 2312.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6569501161575317,
+    "timestamp": 2313.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6521446108818054,
+    "timestamp": 2315.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6492497324943542,
+    "timestamp": 2316.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6453185677528381,
+    "timestamp": 2317.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6341118812561035,
+    "timestamp": 2319.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5924102067947388,
+    "timestamp": 2321.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6014949083328247,
+    "timestamp": 2360.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.620357096195221,
+    "timestamp": 2361.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6278438568115234,
+    "timestamp": 2362.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6403116583824158,
+    "timestamp": 2364.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6424499154090881,
+    "timestamp": 2365.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6398338079452515,
+    "timestamp": 2366.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6120549440383911,
+    "timestamp": 2379.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6391567587852478,
+    "timestamp": 2381.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6436593532562256,
+    "timestamp": 2382.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.649389386177063,
+    "timestamp": 2383.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6475969552993774,
+    "timestamp": 2384.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.645618200302124,
+    "timestamp": 2385.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6397917866706848,
+    "timestamp": 2386.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5938366055488586,
+    "timestamp": 2390.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5952723026275635,
+    "timestamp": 2391.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5830249190330505,
+    "timestamp": 2400.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.58704674243927,
+    "timestamp": 2401.5
+  },
+  {
+    "label": "Clearance",
+    "score": 0.5823156237602234,
+    "timestamp": 2408.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6555845141410828,
+    "timestamp": 2469.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6482397317886353,
+    "timestamp": 2472.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6502843499183655,
+    "timestamp": 2473.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6502413153648376,
+    "timestamp": 2474.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6467836499214172,
+    "timestamp": 2475.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6446593403816223,
+    "timestamp": 2476.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6370097398757935,
+    "timestamp": 2477.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5820942521095276,
+    "timestamp": 2480.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6013365983963013,
+    "timestamp": 2488.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6025329232215881,
+    "timestamp": 2489.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6076547503471375,
+    "timestamp": 2490.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5901514291763306,
+    "timestamp": 2509.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6592361927032471,
+    "timestamp": 2513.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6144073605537415,
+    "timestamp": 2517.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6213201284408569,
+    "timestamp": 2518.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6188738942146301,
+    "timestamp": 2520.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6182118654251099,
+    "timestamp": 2521.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6137257218360901,
+    "timestamp": 2524.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.665947437286377,
+    "timestamp": 2529.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6497660875320435,
+    "timestamp": 2531.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6521985530853271,
+    "timestamp": 2532.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6532854437828064,
+    "timestamp": 2533.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6500875353813171,
+    "timestamp": 2534.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6276562213897705,
+    "timestamp": 2559.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6304474472999573,
+    "timestamp": 2560.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6332500576972961,
+    "timestamp": 2561.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6274741888046265,
+    "timestamp": 2562.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.627968430519104,
+    "timestamp": 2563.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6161894202232361,
+    "timestamp": 2564.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5857557654380798,
+    "timestamp": 2566.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5864932537078857,
+    "timestamp": 2573.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5963716506958008,
+    "timestamp": 2578.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6321286559104919,
+    "timestamp": 2580.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6293264627456665,
+    "timestamp": 2581.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6274163126945496,
+    "timestamp": 2584.5
+  },
+  {
+    "label": "Penalty",
+    "score": 0.5822328925132751,
+    "timestamp": 2589.0
+  },
+  {
+    "label": "Goal",
+    "score": 0.5827786326408386,
+    "timestamp": 2589.0
+  },
+  {
+    "label": "Clearance",
+    "score": 0.5822149515151978,
+    "timestamp": 2589.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6211628317832947,
+    "timestamp": 2589.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6502240300178528,
+    "timestamp": 2604.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6568102240562439,
+    "timestamp": 2606.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6577968001365662,
+    "timestamp": 2607.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6335519552230835,
+    "timestamp": 2640.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6258243918418884,
+    "timestamp": 2641.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6418612003326416,
+    "timestamp": 2647.0
+  },
+  {
+    "label": "Kick-off",
+    "score": 0.5830089449882507,
+    "timestamp": 2648.5
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6574134826660156,
+    "timestamp": 2660.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6635339856147766,
+    "timestamp": 2664.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6639775037765503,
+    "timestamp": 2665.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6643708348274231,
+    "timestamp": 2666.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6628285050392151,
+    "timestamp": 2667.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6620360016822815,
+    "timestamp": 2668.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6606193780899048,
+    "timestamp": 2669.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6539055109024048,
+    "timestamp": 2671.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.644608736038208,
+    "timestamp": 2673.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6445499062538147,
+    "timestamp": 2674.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6420014500617981,
+    "timestamp": 2675.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.5997981429100037,
+    "timestamp": 2696.0
+  },
+  {
+    "label": "Ball out of play",
+    "score": 0.6311740875244141,
+    "timestamp": 2698.5
+  }
+]

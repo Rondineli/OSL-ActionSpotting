@@ -18,7 +18,7 @@ def build_model(cfg, verbose=True, default_args=None):
     Returns:
         Model: The constructed model.
     """
-    if cfg.model.type == "LearnablePooling":
+    if cfg.get("type") == "LearnablePooling" or cfg.model.type == "LearnablePooling":
         model = LiteLearnablePoolingModel(
             cfg=cfg,
             weights=cfg.model.load_weights,

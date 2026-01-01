@@ -96,7 +96,7 @@ class VideoFeatureExtractor():
             logging.info(f"frames {frames.shape}, fps={frames.shape[0]/duration}")
 
             # predict the features from the frames (adjust batch size for smaller GPU)
-            features = self.model.predict(frames, batch_size=64, verbose=1)
+            features = self.model.predict(frames, batch_size=64)
 
             logging.info(f"features {features.shape}, fps={features.shape[0]/duration}")
 

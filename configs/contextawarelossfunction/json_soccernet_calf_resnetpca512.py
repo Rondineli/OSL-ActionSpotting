@@ -12,12 +12,15 @@ dataset = dict(
             "/home/ybenzakour/datasets/SoccerNet/JSON/ResNET_PCA512/train/annotations.json"
         ],
         data_root=["/home/ybenzakour/datasets/SoccerNet/"],
+        classes = ["Goal", "Kick-off"]
     ),
     valid=dict(
-        path="/home/ybenzakour/datasets/SoccerNet/JSON/ResNET_PCA512/valid/annotations.json"
+        path="/home/ybenzakour/datasets/SoccerNet/JSON/ResNET_PCA512/valid/annotations.json",
+        classes = ["Goal", "Kick-off"]
     ),
     test=dict(
-        path="/home/ybenzakour/datasets/SoccerNet/JSON/ResNET_PCA512/test/annotations.json"
+        path="/home/ybenzakour/datasets/SoccerNet/JSON/ResNET_PCA512/test/annotations.json",
+        classes = ["Goal", "Kick-off"]
     ),
 )
 log_level = "INFO"  # The level of logging
@@ -27,6 +30,6 @@ runner = dict(type="runner_JSON")
 visualizer = dict(
     threshold=0.0,
     annotation_range=5000,  # ms
-    seconds_to_skip=30,
-    scale=1.5,
+    seconds_to_skip=20,
+    scale=1,
 )

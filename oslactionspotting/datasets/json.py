@@ -102,7 +102,7 @@ class FeaturefromJson(Dataset):
 
         else:
             self.features_dir = [features_dir]
-
+            print(f"Loading path => [DEBUg]: => {path}")
             assert os.path.isfile(path)
             if path.endswith(".json"):
                 with open(path) as f:
@@ -144,7 +144,7 @@ class FeaturefromJson(Dataset):
         """Process an annotation to derive the frame number, the class index and a boolean.
         Args:
             annotation (dict): It must contains the keys "gameTime" and "label".
-
+    
         Returns:
             label (int): The index of the class.
             frame (int): The index of the frame.
@@ -152,24 +152,26 @@ class FeaturefromJson(Dataset):
         """
         # time = annotation["gameTime"]
         event = annotation["label"]
-
+    
         if "position" in annotation.keys():
             frame = int(self.framerate * (int(annotation["position"]) / 1000))
         else:
             time = annotation["gameTime"]
-
+    
             minutes = int(time[-5:-3])
             seconds = int(time[-2::])
             frame = self.framerate * (seconds + 60 * minutes)
-
+    
         cont = False
-
+        label = None
+    
         if event not in self.classes:
             cont = True
         else:
             label = self.classes.index(event)
-
+            return label, frame, cont
         return label, frame, cont
+
 
 
 class FeatureClipsfromJSON(FeaturefromJson):
@@ -418,10 +420,18 @@ class FeatureClipChunksfromJson(FeaturefromJson):
         """
         if self.train:
             # Retrieve the game index and the anchor
+            #print(f"Total num classes: => {self.num_classes}")
             class_selection = random.randint(0, self.num_classes)
+            #if len(self.events_in_clip) == 0:
+            #    new_idx = random.randint(0, len(self) - 1)
+            #    return self.__getitem__(new_idx)
+            #print(f"class_selection => {class_selection}")
+            #print(f"Anchor clips => {self.anchors_clips}")
+
             event_selection = random.randint(
                 0, len(self.anchors_clips[class_selection]) - 1
             )
+            #print(f"Event selection => {event_selection}")
             game_index = self.anchors_clips[class_selection][event_selection][0]
             anchor = self.anchors_clips[class_selection][event_selection][1]
 

@@ -1,0 +1,5207 @@
+{
+    "version": 1,
+    "date": "2025.29.12",
+    "videos": [
+        {
+            "path": "train/Simoni_fc_vs_Verde_Parque_OnXkBmX2yag/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3123",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:08",
+                    "label": "Goal",
+                    "position": "2348490",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:45",
+                    "label": "Kick-off",
+                    "position": "2385625",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 63:34",
+                    "label": "Kick-off",
+                    "position": "3814054",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 118:47",
+                    "label": "Goal",
+                    "position": "7127647",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 120:47",
+                    "label": "Kick-off",
+                    "position": "7247434",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 124:43",
+                    "label": "Goal",
+                    "position": "7483589",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 125:13",
+                    "label": "Kick-off",
+                    "position": "7513701",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Real_Madrid_vs_Atl_Madrid_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2977",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:10",
+                    "label": "Goal",
+                    "position": "190460",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:30",
+                    "label": "Kick-off",
+                    "position": "210281",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 07:36",
+                    "label": "Goal",
+                    "position": "456636",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:00",
+                    "label": "Kick-off",
+                    "position": "480362",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 18:47",
+                    "label": "Kick-off",
+                    "position": "1127872",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 21:11",
+                    "label": "Goal",
+                    "position": "1271215",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 21:30",
+                    "label": "Kick-off",
+                    "position": "1290781",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 22:38",
+                    "label": "Goal",
+                    "position": "1358433",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 23:00",
+                    "label": "Kick-off",
+                    "position": "1380488",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/SETU_Carlos-B_vs_Limerick_College_FE_KBoZeY-xv6o/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5888",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:23",
+                    "label": "Goal",
+                    "position": "1523708",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 26:12",
+                    "label": "Kick-off",
+                    "position": "1572688",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 37:27",
+                    "label": "Goal",
+                    "position": "2247733",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 37:57",
+                    "label": "Kick-off",
+                    "position": "2277217",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:31",
+                    "label": "Kick-off",
+                    "position": "3691064",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:22",
+                    "label": "Goal",
+                    "position": "4222440",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:17",
+                    "label": "Kick-off",
+                    "position": "4277370",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:10",
+                    "label": "Goal",
+                    "position": "4630242",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 78:06",
+                    "label": "Kick-off",
+                    "position": "4686136",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Paysandu_vs_JD_Audir_Vy5oAhXGGg/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6304",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:51",
+                    "label": "Goal",
+                    "position": "111030",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 02:44",
+                    "label": "Kick-off",
+                    "position": "164687",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 08:42",
+                    "label": "Goal",
+                    "position": "522779",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:26",
+                    "label": "Kick-off",
+                    "position": "566594",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 52:32",
+                    "label": "Kick-off",
+                    "position": "3152267",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 55:35",
+                    "label": "Goal",
+                    "position": "3335111",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 56:11",
+                    "label": "Kick-off",
+                    "position": "3371574",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Ipirinca_FC_vs_EC_Aguia_Azul_RoE4v_MnaCA/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2530",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:14",
+                    "label": "Goal",
+                    "position": "74954",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:52",
+                    "label": "Kick-off",
+                    "position": "112760",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 32:13",
+                    "label": "Goal",
+                    "position": "1933438",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 32:32",
+                    "label": "Kick-off",
+                    "position": "1952520",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 37:35",
+                    "label": "Goal",
+                    "position": "2255241",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:05",
+                    "label": "Kick-off",
+                    "position": "2345477",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:26",
+                    "label": "Kick-off",
+                    "position": "3686012",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:34",
+                    "label": "Goal",
+                    "position": "5134311",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 86:24",
+                    "label": "Kick-off",
+                    "position": "5184225",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 103:22",
+                    "label": "Goal",
+                    "position": "6202802",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:56",
+                    "label": "Kick-off",
+                    "position": "6236716",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Bray_Institute_vs_IADT_Dun_Laoghaire_Institute_h1ziopAyY-k/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6335",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:36",
+                    "label": "Goal",
+                    "position": "516225",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:19",
+                    "label": "Kick-off",
+                    "position": "559391",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 58:13",
+                    "label": "Kick-off",
+                    "position": "3493293",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:08",
+                    "label": "Goal",
+                    "position": "5828350",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:45",
+                    "label": "Kick-off",
+                    "position": "5865505",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 101:28",
+                    "label": "Goal",
+                    "position": "6088233",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:53",
+                    "label": "Kick-off",
+                    "position": "6353948",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/U_Joao_Viotto_vs_Cruzeiro_Fc_OKpCpDtXMnk/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4879",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:22",
+                    "label": "Goal",
+                    "position": "2362569",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:40",
+                    "label": "Kick-off",
+                    "position": "2440260",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 54:44",
+                    "label": "Kick-off",
+                    "position": "3284259",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 70:02",
+                    "label": "Goal",
+                    "position": "4202728",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:44",
+                    "label": "Kick-off",
+                    "position": "4244207",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 89:20",
+                    "label": "Goal",
+                    "position": "5360065",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 89:52",
+                    "label": "Kick-off",
+                    "position": "5392610",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 94:15",
+                    "label": "Goal",
+                    "position": "5655930",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 94:54",
+                    "label": "Kick-off",
+                    "position": "5694373",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:09",
+                    "label": "Goal",
+                    "position": "6189688",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:51",
+                    "label": "Goal",
+                    "position": "6231298",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:45",
+                    "label": "Goal",
+                    "position": "6285556",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:38",
+                    "label": "Goal",
+                    "position": "6338188",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 108:18",
+                    "label": "Goal",
+                    "position": "6498273",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:14",
+                    "label": "Goal",
+                    "position": "6554882",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 111:19",
+                    "label": "Goal",
+                    "position": "6679310",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Canta_Sapo_vs_Loucos_da_norte_xRQVWV1WEbA/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2144",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:18",
+                    "label": "Kick-off",
+                    "position": "3558325",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 82:38",
+                    "label": "Goal",
+                    "position": "4958416",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:15",
+                    "label": "Kick-off",
+                    "position": "4995369",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Lower_Hopton_Res_vs_Hanging_Heaton_tQubVhVMmbA/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2939",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 00:26",
+                    "label": "Goal",
+                    "position": "26376",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 00:54",
+                    "label": "Kick-off",
+                    "position": "54992",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:03",
+                    "label": "Goal",
+                    "position": "243241",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:27",
+                    "label": "Kick-off",
+                    "position": "267512",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 45:20",
+                    "label": "Kick-off",
+                    "position": "2720167",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Blackforge_FC_vs_ROC_Celtic_ngZWFeLUEII/1_ResNet.npy",
+            "annotations": [
+                {
+                    "label": "Kick-off",
+                    "gameTime": "1 - 00:00",
+                    "position": "0",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:23",
+                    "label": "Goal",
+                    "position": "83000",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "label": "Kick-off",
+                    "gameTime": "1 - 02:09",
+                    "position": "129133",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 02:49",
+                    "label": "Goal",
+                    "position": "169000",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:31",
+                    "label": "Kick-off",
+                    "position": "211333",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 37:28",
+                    "label": "Goal",
+                    "position": "2248817",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 38:15",
+                    "label": "Kick-off",
+                    "position": "2295967",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 51:07",
+                    "label": "Kick-off",
+                    "position": "3067267",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 55:46",
+                    "label": "Goal",
+                    "position": "3346883",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 56:09",
+                    "label": "Kick-off",
+                    "position": "3369017",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 91:46",
+                    "label": "Goal",
+                    "position": "5506583",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 93:52",
+                    "label": "Kick-off",
+                    "position": "5632317",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 99:17",
+                    "label": "Goal",
+                    "position": "5957833",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Mancha_Alvinegra_vs_Ribeirao_Verde_lq4oALxEvRs/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6109",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:48",
+                    "label": "Goal",
+                    "position": "528770",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:24",
+                    "label": "Kick-off",
+                    "position": "564144",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 26:04",
+                    "label": "Goal",
+                    "position": "1564008",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 26:31",
+                    "label": "Kick-off",
+                    "position": "1591633",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:03",
+                    "label": "Kick-off",
+                    "position": "3663353",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:46",
+                    "label": "Goal",
+                    "position": "5146617",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 86:20",
+                    "label": "Kick-off",
+                    "position": "5180903",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:09",
+                    "label": "Goal",
+                    "position": "6549887",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:55",
+                    "label": "Kick-off",
+                    "position": "6595785",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Santa_Helena_vs_Casa_Das_Mangueiras_yXA1duXPNz0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6597",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:10",
+                    "label": "Goal",
+                    "position": "190841",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:11",
+                    "label": "Kick-off",
+                    "position": "251774",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 22:44",
+                    "label": "Goal",
+                    "position": "1364352",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:24",
+                    "label": "Kick-off",
+                    "position": "1404147",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:48",
+                    "label": "Kick-off",
+                    "position": "3708700",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 96:05",
+                    "label": "Goal",
+                    "position": "5765264",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 96:45",
+                    "label": "Kick-off",
+                    "position": "5805573",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Ribeirao_Verde_vs_Casagrande_C4CXJ_mdGUU/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:14",
+                    "label": "Kick-off",
+                    "position": "14182",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 28:05",
+                    "label": "Goal",
+                    "position": "1685442",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 46:38",
+                    "label": "Goal",
+                    "position": "2798222",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 47:44",
+                    "label": "Kick-off",
+                    "position": "2864359",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:41",
+                    "label": "Kick-off",
+                    "position": "1721450",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 51:03",
+                    "label": "Goal",
+                    "position": "3063000",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 51:36",
+                    "label": "Kick-off",
+                    "position": "3096777",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:51",
+                    "label": "Kick-off",
+                    "position": "3951026",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:38",
+                    "label": "Goal",
+                    "position": "4298251",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 72:19",
+                    "label": "Kick-off",
+                    "position": "4339319",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Jd_Helena_FC_vs_Verde_Parque_Fc_Bfu3SkR-y-s/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2480",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:39",
+                    "label": "Goal",
+                    "position": "2439190",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 42:51",
+                    "label": "Kick-off",
+                    "position": "2571069",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 61:18",
+                    "label": "Kick-off",
+                    "position": "3678656",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 93:13",
+                    "label": "Goal",
+                    "position": "5593504",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Amarelo_vs_Laranja_xgl26E63w1o/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1657",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 12:09",
+                    "label": "Goal",
+                    "position": "729291",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 12:20",
+                    "label": "Kick-off",
+                    "position": "740279",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:01",
+                    "label": "Goal",
+                    "position": "901285",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:14",
+                    "label": "Kick-off",
+                    "position": "914270",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:22",
+                    "label": "Goal",
+                    "position": "922744",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:40",
+                    "label": "Kick-off",
+                    "position": "940019",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:07",
+                    "label": "Goal",
+                    "position": "1027735",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:24",
+                    "label": "Kick-off",
+                    "position": "1044527",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:52",
+                    "label": "Goal",
+                    "position": "1072803",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 18:09",
+                    "label": "Kick-off",
+                    "position": "1089279",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:45",
+                    "label": "Goal",
+                    "position": "1185594",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:59",
+                    "label": "Kick-off",
+                    "position": "1199615",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 26:11",
+                    "label": "Goal",
+                    "position": "1571026",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 26:29",
+                    "label": "Kick-off",
+                    "position": "1589347",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:09",
+                    "label": "Goal",
+                    "position": "1689617",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:27",
+                    "label": "Kick-off",
+                    "position": "1707767",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 34:02",
+                    "label": "Goal",
+                    "position": "2042923",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 34:20",
+                    "label": "Kick-off",
+                    "position": "2060102",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 35:47",
+                    "label": "Goal",
+                    "position": "2147111",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:09",
+                    "label": "Kick-off",
+                    "position": "2169799",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 38:55",
+                    "label": "Goal",
+                    "position": "2335476",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:05",
+                    "label": "Kick-off",
+                    "position": "2345943",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 39:56",
+                    "label": "Goal",
+                    "position": "2396115",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:11",
+                    "label": "Kick-off",
+                    "position": "2411779",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:02",
+                    "label": "Goal",
+                    "position": "2642499",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:15",
+                    "label": "Kick-off",
+                    "position": "2655067",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 45:07",
+                    "label": "Goal",
+                    "position": "2707662",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 45:28",
+                    "label": "Kick-off",
+                    "position": "2728872",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Cometa_Fc_vs_Al_Qaeda_Fc_ZJGrSlpG1j8/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:08",
+                    "label": "Kick-off",
+                    "position": "8584",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 24:31",
+                    "label": "Goal",
+                    "position": "1471142",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:35",
+                    "label": "Kick-off",
+                    "position": "1535603",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 54:00",
+                    "label": "Kick-off",
+                    "position": "3240133",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 70:23",
+                    "label": "Goal",
+                    "position": "4223238",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:19",
+                    "label": "Kick-off",
+                    "position": "4279266",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 87:56",
+                    "label": "Goal",
+                    "position": "5276536",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 88:35",
+                    "label": "Kick-off",
+                    "position": "5315511",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Gladiadores_vs_Barcelona_Bogota_7nopYtSdwIU/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4666",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 06:13",
+                    "label": "Goal",
+                    "position": "373684",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:40",
+                    "label": "Kick-off",
+                    "position": "400660",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 09:20",
+                    "label": "Goal",
+                    "position": "560661",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:29",
+                    "label": "Kick-off",
+                    "position": "569867",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 22:07",
+                    "label": "Goal",
+                    "position": "1327238",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 22:34",
+                    "label": "Kick-off",
+                    "position": "1354233",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 24:19",
+                    "label": "Goal",
+                    "position": "1459681",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 24:42",
+                    "label": "Kick-off",
+                    "position": "1482667",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 36:16",
+                    "label": "Goal",
+                    "position": "2176494",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:40",
+                    "label": "Kick-off",
+                    "position": "2200589",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 57:48",
+                    "label": "Kick-off",
+                    "position": "3468985",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 66:36",
+                    "label": "Goal",
+                    "position": "3996784",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 67:02",
+                    "label": "Kick-off",
+                    "position": "4022880",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Barca_Q1_vs_Simioni_Fc_rqs1IgE5-Qk/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2203",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 05:33",
+                    "label": "Goal",
+                    "position": "333919",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:17",
+                    "label": "Kick-off",
+                    "position": "377219",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 32:23",
+                    "label": "Goal",
+                    "position": "1943831",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 33:26",
+                    "label": "Kick-off",
+                    "position": "2006620",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 58:58",
+                    "label": "Kick-off",
+                    "position": "3538383",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 96:18",
+                    "label": "Goal",
+                    "position": "5778028",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:39",
+                    "label": "Kick-off",
+                    "position": "5859342",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 101:32",
+                    "label": "Goal",
+                    "position": "6092717",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 102:21",
+                    "label": "Kick-off",
+                    "position": "6141241",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Parque_Imperial_vs_Cachoerinha_bFD6f5EBJLc/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4130",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:54",
+                    "label": "Goal",
+                    "position": "2394514",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:51",
+                    "label": "Kick-off",
+                    "position": "2451475",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 55:53",
+                    "label": "Kick-off",
+                    "position": "3353697",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 96:57",
+                    "label": "Goal",
+                    "position": "5817911",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 98:30",
+                    "label": "Kick-off",
+                    "position": "5910834",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Man_City_vs_B_Dortmund_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5824",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 13:10",
+                    "label": "Kick-off",
+                    "position": "790417",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 22:28",
+                    "label": "Goal",
+                    "position": "1348920",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 23:34",
+                    "label": "Kick-off",
+                    "position": "1414562",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 24:35",
+                    "label": "Goal",
+                    "position": "1475439",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Parque_Santana_vs_famoso_bnZzL5yYIAI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "580",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 29:56",
+                    "label": "Goal",
+                    "position": "1796602",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 30:44",
+                    "label": "Kick-off",
+                    "position": "1844612",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 33:51",
+                    "label": "Goal",
+                    "position": "2031660",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 34:47",
+                    "label": "Kick-off",
+                    "position": "2087372",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 42:21",
+                    "label": "Kick-off",
+                    "position": "2541767",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 60:44",
+                    "label": "Goal",
+                    "position": "3644985",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 64:13",
+                    "label": "Kick-off",
+                    "position": "3853296",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 64:46",
+                    "label": "Goal",
+                    "position": "3886894",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:25",
+                    "label": "Kick-off",
+                    "position": "3925302",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:52",
+                    "label": "Goal",
+                    "position": "4252654",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:49",
+                    "label": "Kick-off",
+                    "position": "4309302",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 79:25",
+                    "label": "Goal",
+                    "position": "4765128",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 80:17",
+                    "label": "Kick-off",
+                    "position": "4817933",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Carlos_vs_Maynooth_University_sL8kU5MstT0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "513",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 63:06",
+                    "label": "Kick-off",
+                    "position": "3786200",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 116:24",
+                    "label": "Goal",
+                    "position": "6984765",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 117:02",
+                    "label": "Goal",
+                    "position": "7022052",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 117:47",
+                    "label": "Goal",
+                    "position": "7067783",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 118:22",
+                    "label": "Goal",
+                    "position": "7102910",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 119:45",
+                    "label": "Goal",
+                    "position": "7185310",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 121:36",
+                    "label": "Goal",
+                    "position": "7296667",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 122:54",
+                    "label": "Goal",
+                    "position": "7374563",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 123:29",
+                    "label": "Goal",
+                    "position": "7409731",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 124:07",
+                    "label": "Goal",
+                    "position": "7447411",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Pontal_vs_Renegados_JDvTa-ZPKuI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:08",
+                    "label": "Kick-off",
+                    "position": "8487",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 29:36",
+                    "label": "Goal",
+                    "position": "1776140",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 29:45",
+                    "label": "Kick-off",
+                    "position": "1785543",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 51:35",
+                    "label": "Kick-off",
+                    "position": "3095667",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:22",
+                    "label": "Goal",
+                    "position": "3682621",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:34",
+                    "label": "Kick-off",
+                    "position": "3694406",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:50",
+                    "label": "Goal",
+                    "position": "5870447",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 98:43",
+                    "label": "Goal",
+                    "position": "5923789",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 99:38",
+                    "label": "Goal",
+                    "position": "5978549",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 101:12",
+                    "label": "Goal",
+                    "position": "6072067",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 102:00",
+                    "label": "Goal",
+                    "position": "6120796",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:31",
+                    "label": "Goal",
+                    "position": "6211095",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:30",
+                    "label": "Goal",
+                    "position": "6270238",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:24",
+                    "label": "Goal",
+                    "position": "6324743",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:19",
+                    "label": "Goal",
+                    "position": "6379617",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:55",
+                    "label": "Goal",
+                    "position": "6415411",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 107:59",
+                    "label": "Goal",
+                    "position": "6479151",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 108:46",
+                    "label": "Goal",
+                    "position": "6526017",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:44",
+                    "label": "Goal",
+                    "position": "6584515",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Sao_Pedro_vs_Olaria__QjdE4iq_xs/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6134",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:35",
+                    "label": "Goal",
+                    "position": "215917",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:00",
+                    "label": "Kick-off",
+                    "position": "240958",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:02",
+                    "label": "Goal",
+                    "position": "2582554",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:51",
+                    "label": "Kick-off",
+                    "position": "2631355",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 54:57",
+                    "label": "Kick-off",
+                    "position": "3297769",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/ATU_Donegal_vs_SETU_Waterford_bGgsnMcRzZI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:07",
+                    "label": "Kick-off",
+                    "position": "7651",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:33",
+                    "label": "Goal",
+                    "position": "573523",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 10:07",
+                    "label": "Kick-off",
+                    "position": "607733",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 33:33",
+                    "label": "Goal",
+                    "position": "2013614",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 34:09",
+                    "label": "Kick-off",
+                    "position": "2049600",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 57:59",
+                    "label": "Kick-off",
+                    "position": "3479205",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 84:59",
+                    "label": "Goal",
+                    "position": "5099595",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:33",
+                    "label": "Kick-off",
+                    "position": "5133212",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:42",
+                    "label": "Goal",
+                    "position": "5862717",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 98:08",
+                    "label": "Kick-off",
+                    "position": "5888285",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 101:53",
+                    "label": "Goal",
+                    "position": "6113347",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 102:25",
+                    "label": "Kick-off",
+                    "position": "6145397",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/America_Planalto_vs_Ajax_Fc_NNwx-DZ6gmo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "2 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1192",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 18:24",
+                    "label": "Goal",
+                    "position": "1104176",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 20:57",
+                    "label": "Kick-off",
+                    "position": "1257410",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Parque_Santana_vs_Cruzeiro_Fc__nF_GlVes-0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4373",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 05:39",
+                    "label": "Goal",
+                    "position": "339531",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:12",
+                    "label": "Kick-off",
+                    "position": "372180",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 52:26",
+                    "label": "Kick-off",
+                    "position": "3146812",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:56",
+                    "label": "Goal",
+                    "position": "4676118",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 78:35",
+                    "label": "Kick-off",
+                    "position": "4715032",
+                    "team": "home",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/TU_Blanchardstown_vs_DBS_Xg8sSem2d8g/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4000",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 30:11",
+                    "label": "Goal",
+                    "position": "1811464",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 30:56",
+                    "label": "Kick-off",
+                    "position": "1856264",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 62:20",
+                    "label": "Kick-off",
+                    "position": "3740710",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 67:01",
+                    "label": "Goal",
+                    "position": "4021667",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 67:37",
+                    "label": "Kick-off",
+                    "position": "4057562",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 108:36",
+                    "label": "Goal",
+                    "position": "6516527",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:20",
+                    "label": "Kick-off",
+                    "position": "6560086",
+                    "team": "home",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Barcelona_vs_Man_United_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4763",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 00:35",
+                    "label": "Goal",
+                    "position": "35121",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:02",
+                    "label": "Kick-off",
+                    "position": "62953",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/JD_Helena_vs_Verde_Parque_5iUu5mxGnuU/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3765",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:13",
+                    "label": "Goal",
+                    "position": "253287",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:46",
+                    "label": "Kick-off",
+                    "position": "286421",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:42",
+                    "label": "Goal",
+                    "position": "1722107",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 29:42",
+                    "label": "Kick-off",
+                    "position": "1782306",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 58:32",
+                    "label": "Kick-off",
+                    "position": "3512898",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:38",
+                    "label": "Goal",
+                    "position": "4658410",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 95:33",
+                    "label": "Goal",
+                    "position": "5733806",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 78:38",
+                    "label": "Kick-off",
+                    "position": "4718000",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 96:30",
+                    "label": "Kick-off",
+                    "position": "5790630",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Inter_Marincek_vs_Desportivo_Independente_akVlP6pWDJ0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:07",
+                    "label": "Kick-off",
+                    "position": "7432",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 57:52",
+                    "label": "Kick-off",
+                    "position": "3472044",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 105:16",
+                    "label": "Goal",
+                    "position": "6316184",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 105:43",
+                    "label": "Kick-off",
+                    "position": "6343695",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Pouso_Alegre_vs_Uniao_Fc_2AILzrLljb0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1942",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 39:46",
+                    "label": "Goal",
+                    "position": "2386810",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:22",
+                    "label": "Kick-off",
+                    "position": "2422833",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:07",
+                    "label": "Kick-off",
+                    "position": "3667698",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 91:33",
+                    "label": "Goal",
+                    "position": "5493352",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 92:03",
+                    "label": "Kick-off",
+                    "position": "5523914",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:03",
+                    "label": "Goal",
+                    "position": "6183922",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:26",
+                    "label": "Kick-off",
+                    "position": "6206887",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Internazionale_vs_Milan_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2912",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:02",
+                    "label": "Goal",
+                    "position": "362912",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:24",
+                    "label": "Kick-off",
+                    "position": "384430",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 09:32",
+                    "label": "Goal",
+                    "position": "572292",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:57",
+                    "label": "Kick-off",
+                    "position": "597907",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 15:08",
+                    "label": "Kick-off",
+                    "position": "908592",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 18:56",
+                    "label": "Goal",
+                    "position": "1136567",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 19:28",
+                    "label": "Kick-off",
+                    "position": "1168873",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 21:13",
+                    "label": "Goal",
+                    "position": "1273203",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 21:37",
+                    "label": "Kick-off",
+                    "position": "1297715",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 25:08",
+                    "label": "Goal",
+                    "position": "1508993",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 25:32",
+                    "label": "Kick-off",
+                    "position": "1532231",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Vila_Real_vs_Brejo_eSE3CF4NvqY/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3879",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 37:32",
+                    "label": "Goal",
+                    "position": "2252767",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:47",
+                    "label": "Kick-off",
+                    "position": "3707889",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:52",
+                    "label": "Goal",
+                    "position": "5152742",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 86:37",
+                    "label": "Kick-off",
+                    "position": "5197167",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Celtic_United_FC_vs_Blanchardstown_FC_pbZQ7LSKqZQ/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "0",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:10",
+                    "label": "Goal",
+                    "position": "2410778",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 48:25",
+                    "label": "Kick-off",
+                    "position": "2905857",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 51:10",
+                    "label": "Goal",
+                    "position": "3070044",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 51:46",
+                    "label": "Kick-off",
+                    "position": "3106804",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 84:49",
+                    "label": "Goal",
+                    "position": "5089742",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:40",
+                    "label": "Kick-off",
+                    "position": "5140337",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 89:02",
+                    "label": "Goal",
+                    "position": "5342517",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 89:33",
+                    "label": "Kick-off",
+                    "position": "5373923",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 91:27",
+                    "label": "Goal",
+                    "position": "5487836",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Cruzeiro_Fc_vs_Parque_Santana_vXPajvn5pCs/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6731",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:36",
+                    "label": "Goal",
+                    "position": "396573",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:20",
+                    "label": "Kick-off",
+                    "position": "560297",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:21",
+                    "label": "Goal",
+                    "position": "1401103",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:55",
+                    "label": "Kick-off",
+                    "position": "1435976",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:08",
+                    "label": "Goal",
+                    "position": "2588140",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:57",
+                    "label": "Kick-off",
+                    "position": "2637646",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:03",
+                    "label": "Kick-off",
+                    "position": "3663827",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:55",
+                    "label": "Goal",
+                    "position": "6355843",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/ATU_Galway_B_vs_Colaiste_IDE_nYBlGUn-cqw/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4343",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 27:29",
+                    "label": "Goal",
+                    "position": "1649176",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:20",
+                    "label": "Kick-off",
+                    "position": "1700196",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 63:04",
+                    "label": "Kick-off",
+                    "position": "3784024",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:45",
+                    "label": "Goal",
+                    "position": "6225672",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:36",
+                    "label": "Kick-off",
+                    "position": "6276894",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 112:34",
+                    "label": "Goal",
+                    "position": "6754358",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 113:01",
+                    "label": "Kick-off",
+                    "position": "6781757",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/ATU_sligo_vs_ATU_Donegal_joIEzf8BajI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5322",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:27",
+                    "label": "Goal",
+                    "position": "927077",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 16:07",
+                    "label": "Kick-off",
+                    "position": "967640",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 18:48",
+                    "label": "Goal",
+                    "position": "1128053",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:30",
+                    "label": "Kick-off",
+                    "position": "1170545",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 20:56",
+                    "label": "Goal",
+                    "position": "1256200",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 21:21",
+                    "label": "Kick-off",
+                    "position": "1281025",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:26",
+                    "label": "Goal",
+                    "position": "2186596",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 37:04",
+                    "label": "Kick-off",
+                    "position": "2224657",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 38:04",
+                    "label": "Goal",
+                    "position": "2284074",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 38:26",
+                    "label": "Kick-off",
+                    "position": "2306949",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 58:53",
+                    "label": "Kick-off",
+                    "position": "3533280",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Vila_Virginia_vs_Haway_cf_aRZoZwgw3II/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2907",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:46",
+                    "label": "Goal",
+                    "position": "526747",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:40",
+                    "label": "Kick-off",
+                    "position": "580407",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 69:46",
+                    "label": "Kick-off",
+                    "position": "4186747",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 114:05",
+                    "label": "Goal",
+                    "position": "6845891",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 116:44",
+                    "label": "Kick-off",
+                    "position": "7004009",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 123:19",
+                    "label": "Goal",
+                    "position": "7399930",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 124:07",
+                    "label": "Kick-off",
+                    "position": "7447513",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Waterford_FET_vs_TUD_Blanchardstown_sHqLxQugz-A/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6175",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:02",
+                    "label": "Goal",
+                    "position": "2582426",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:00",
+                    "label": "Kick-off",
+                    "position": "2640553",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 60:54",
+                    "label": "Kick-off",
+                    "position": "3654462",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:14",
+                    "label": "Goal",
+                    "position": "4214795",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:03",
+                    "label": "Kick-off",
+                    "position": "4263478",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 114:08",
+                    "label": "Goal",
+                    "position": "6848106",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 114:50",
+                    "label": "Goal",
+                    "position": "6890098",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 115:25",
+                    "label": "Goal",
+                    "position": "6925315",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 116:40",
+                    "label": "Goal",
+                    "position": "7000245",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 117:57",
+                    "label": "Goal",
+                    "position": "7077305",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Sanif_Fc_vs_BDR_Sao_Jose_RPkmfR1ufGo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4467",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 34:02",
+                    "label": "Goal",
+                    "position": "2042624",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 64:59",
+                    "label": "Kick-off",
+                    "position": "3899730",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:43",
+                    "label": "Goal",
+                    "position": "4243994",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:19",
+                    "label": "Kick-off",
+                    "position": "4279867",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 98:11",
+                    "label": "Goal",
+                    "position": "5891618",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 98:39",
+                    "label": "Kick-off",
+                    "position": "5919864",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Louzeiros_vs_Sao_Domingos_Do_Monte_Castelo_eWIN5Fab9uI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6319",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 11:42",
+                    "label": "Goal",
+                    "position": "702720",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 12:31",
+                    "label": "Kick-off",
+                    "position": "751024",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 53:26",
+                    "label": "Kick-off",
+                    "position": "3206407",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Leao_FC_vs_Vila_Eliza_FC_5jjTFFrcMIM/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2529",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:23",
+                    "label": "Goal",
+                    "position": "2603145",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:11",
+                    "label": "Kick-off",
+                    "position": "2651688",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 60:41",
+                    "label": "Kick-off",
+                    "position": "3641767",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Seno_vs_Fittipaldi_i3RhURuFeD4/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4665",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 44:09",
+                    "label": "Kick-off",
+                    "position": "2649658",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 49:45",
+                    "label": "Goal",
+                    "position": "2985218",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 50:10",
+                    "label": "Kick-off",
+                    "position": "3010131",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 54:40",
+                    "label": "Goal",
+                    "position": "3280780",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 55:11",
+                    "label": "Kick-off",
+                    "position": "3311638",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Casa_Das_Mangueiras_vs_Conexao_Pre_Vestibular_DI0oWMwnOsk/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4310",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:05",
+                    "label": "Goal",
+                    "position": "1025870",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:24",
+                    "label": "Kick-off",
+                    "position": "1044843",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 20:34",
+                    "label": "Goal",
+                    "position": "1234957",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 20:54",
+                    "label": "Kick-off",
+                    "position": "1254475",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:25",
+                    "label": "Goal",
+                    "position": "1525926",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:44",
+                    "label": "Kick-off",
+                    "position": "1544096",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 30:41",
+                    "label": "Goal",
+                    "position": "1841157",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 31:00",
+                    "label": "Kick-off",
+                    "position": "1860482",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 35:54",
+                    "label": "Goal",
+                    "position": "2154477",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:23",
+                    "label": "Kick-off",
+                    "position": "2183352",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:54",
+                    "label": "Goal",
+                    "position": "2454410",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 41:09",
+                    "label": "Kick-off",
+                    "position": "2469583",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 49:27",
+                    "label": "Kick-off",
+                    "position": "2967344",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 53:20",
+                    "label": "Goal",
+                    "position": "3200418",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 53:28",
+                    "label": "Kick-off",
+                    "position": "3208737",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 54:27",
+                    "label": "Goal",
+                    "position": "3267582",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 54:56",
+                    "label": "Kick-off",
+                    "position": "3296282",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 71:54",
+                    "label": "Goal",
+                    "position": "4314192",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 72:10",
+                    "label": "Kick-off",
+                    "position": "4330221",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:04",
+                    "label": "Goal",
+                    "position": "4624260",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:26",
+                    "label": "Kick-off",
+                    "position": "4646659",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 80:37",
+                    "label": "Goal",
+                    "position": "4837686",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 81:17",
+                    "label": "Kick-off",
+                    "position": "4877020",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:12",
+                    "label": "Goal",
+                    "position": "4992007",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:30",
+                    "label": "Kick-off",
+                    "position": "5010326",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Trinity_College_C_vs_Rathmines_College_FE_bLhHRPadCwE/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1669",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:49",
+                    "label": "Goal",
+                    "position": "229354",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:16",
+                    "label": "Kick-off",
+                    "position": "256521",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:19",
+                    "label": "Goal",
+                    "position": "2179182",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 36:53",
+                    "label": "Kick-off",
+                    "position": "2213165",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 40:38",
+                    "label": "Goal",
+                    "position": "2438910",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 41:39",
+                    "label": "Kick-off",
+                    "position": "2499294",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:59",
+                    "label": "Kick-off",
+                    "position": "3719700",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 66:09",
+                    "label": "Goal",
+                    "position": "3969934",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 66:47",
+                    "label": "Kick-off",
+                    "position": "4007074",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:04",
+                    "label": "Goal",
+                    "position": "4984420",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 84:02",
+                    "label": "Kick-off",
+                    "position": "5042400",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Sani_Fc_vs_Pouso_Alegre_Vgvn3ZAOc2M/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2431",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:14",
+                    "label": "Goal",
+                    "position": "254514",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 42:09",
+                    "label": "Goal",
+                    "position": "2529499",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:46",
+                    "label": "Kick-off",
+                    "position": "286180",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 42:54",
+                    "label": "Kick-off",
+                    "position": "2574776",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 45:13",
+                    "label": "Goal",
+                    "position": "2713952",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 45:49",
+                    "label": "Kick-off",
+                    "position": "2749396",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:50",
+                    "label": "Kick-off",
+                    "position": "3710487",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 68:16",
+                    "label": "Goal",
+                    "position": "4096648",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:13",
+                    "label": "Kick-off",
+                    "position": "4213513",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 73:00",
+                    "label": "Goal",
+                    "position": "4380044",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 74:29",
+                    "label": "Kick-off",
+                    "position": "4469053",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/ATU_Sligo_vs_UCD_xjlNw2JQEkw/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4901",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 43:28",
+                    "label": "Goal",
+                    "position": "2608180",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:13",
+                    "label": "Kick-off",
+                    "position": "2653397",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:53",
+                    "label": "Kick-off",
+                    "position": "3713992",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:04",
+                    "label": "Goal",
+                    "position": "4204110",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 70:52",
+                    "label": "Kick-off",
+                    "position": "4252170",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:30",
+                    "label": "Goal",
+                    "position": "6270507",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:20",
+                    "label": "Kick-off",
+                    "position": "6320960",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:07",
+                    "label": "Goal",
+                    "position": "6367912",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:57",
+                    "label": "Kick-off",
+                    "position": "6417896",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/XV_Novembro_vs_ECC_ZV_Udutu25Q/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3401",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 30:28",
+                    "label": "Goal",
+                    "position": "1828074",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 31:29",
+                    "label": "Kick-off",
+                    "position": "1889904",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 44:50",
+                    "label": "Kick-off",
+                    "position": "2690000",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 55:52",
+                    "label": "Goal",
+                    "position": "3352771",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 57:06",
+                    "label": "Kick-off",
+                    "position": "3426670",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:08",
+                    "label": "Goal",
+                    "position": "3908556",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:50",
+                    "label": "Kick-off",
+                    "position": "3950459",
+                    "team": "home",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Leao_FC_vs_Hawai_Fc_-3KR2omq-Co/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 02:34",
+                    "label": "Kick-off",
+                    "position": "154000",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:54",
+                    "label": "Goal",
+                    "position": "114251",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 02:34",
+                    "label": "Kick-off",
+                    "position": "154130",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 67:35",
+                    "label": "Kick-off",
+                    "position": "4055780",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:15",
+                    "label": "Goal",
+                    "position": "4995883",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 97:47",
+                    "label": "Kick-off",
+                    "position": "5867676",
+                    "team": "home",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/CA_Paulista_vs_Hawai_FC_4mlqHcr9sY4/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:08",
+                    "label": "Kick-off",
+                    "position": "8490",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 22:38",
+                    "label": "Goal",
+                    "position": "1358229",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:12",
+                    "label": "Kick-off",
+                    "position": "1392869",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 65:36",
+                    "label": "Kick-off",
+                    "position": "3936468",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 117:38",
+                    "label": "Goal",
+                    "position": "7058427",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Quintinense_vs_Vila_Virginia_5PFFtUN09Lo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6444",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 28:46",
+                    "label": "Goal",
+                    "position": "1726464",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 29:44",
+                    "label": "Kick-off",
+                    "position": "1784433",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:16",
+                    "label": "Goal",
+                    "position": "2656691",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 45:16",
+                    "label": "Kick-off",
+                    "position": "2716667",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:42",
+                    "label": "Goal",
+                    "position": "6282122",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:12",
+                    "label": "Kick-off",
+                    "position": "6312100",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Atletico_Biriri_Cafe_vs_Red_Bull_4EVVef0os_k/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4508",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 08:16",
+                    "label": "Goal",
+                    "position": "496049",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:43",
+                    "label": "Kick-off",
+                    "position": "523377",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 16:22",
+                    "label": "Goal",
+                    "position": "982427",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 16:53",
+                    "label": "Kick-off",
+                    "position": "1013023",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:02",
+                    "label": "Goal",
+                    "position": "1382876",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 23:55",
+                    "label": "Kick-off",
+                    "position": "1435144",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/So_Loucura_vs_Chega_Junto_BB0eU7DL-LI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1100",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 31:07",
+                    "label": "Kick-off",
+                    "position": "1867610",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:57",
+                    "label": "Goal",
+                    "position": "3957477",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 69:43",
+                    "label": "Kick-off",
+                    "position": "4183541",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Cruzeiro_Ipiranga_vs_Favela_Fc_CxYva8u0wCg/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2839",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:18",
+                    "label": "Goal",
+                    "position": "78811",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 01:49",
+                    "label": "Kick-off",
+                    "position": "109166",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 02:23",
+                    "label": "Goal",
+                    "position": "143300",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:05",
+                    "label": "Kick-off",
+                    "position": "185344",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 40:25",
+                    "label": "Kick-off",
+                    "position": "2425283",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 79:36",
+                    "label": "Goal",
+                    "position": "4776330",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 80:20",
+                    "label": "Goal",
+                    "position": "4820495",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:02",
+                    "label": "Goal",
+                    "position": "4982187",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 83:51",
+                    "label": "Goal",
+                    "position": "5031229",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 84:55",
+                    "label": "Goal",
+                    "position": "5095948",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:38",
+                    "label": "Goal",
+                    "position": "5138256",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 86:32",
+                    "label": "Goal",
+                    "position": "5192613",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 87:26",
+                    "label": "Goal",
+                    "position": "5246558",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 88:24",
+                    "label": "Goal",
+                    "position": "5304796",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Quarryvale_FC_vs_Celtic_United_42ZbbcKZjvM/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2711",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/America_vs_Copo_Cheio_Fc_Dd0x61FCXJE/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4795",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 18:12",
+                    "label": "Goal",
+                    "position": "1092726",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 18:44",
+                    "label": "Kick-off",
+                    "position": "1124053",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 21:17",
+                    "label": "Goal",
+                    "position": "1277587",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 21:34",
+                    "label": "Kick-off",
+                    "position": "1294605",
+                    "team": "home",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 27:03",
+                    "label": "Kick-off",
+                    "position": "1623960",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 37:33",
+                    "label": "Goal",
+                    "position": "2253911",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 37:57",
+                    "label": "Kick-off",
+                    "position": "2277480",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 40:30",
+                    "label": "Goal",
+                    "position": "2430145",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 41:12",
+                    "label": "Kick-off",
+                    "position": "2472038",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 41:23",
+                    "label": "Goal",
+                    "position": "2483560",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 43:36",
+                    "label": "Kick-off",
+                    "position": "2616301",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Hawai_FC_vs_Jd_Juliana_Fc_uR0HBOckmPg/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3190",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 07:43",
+                    "label": "Goal",
+                    "position": "463763",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:14",
+                    "label": "Kick-off",
+                    "position": "494973",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 61:30",
+                    "label": "Kick-off",
+                    "position": "3690419",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 74:34",
+                    "label": "Goal",
+                    "position": "4474885",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 75:32",
+                    "label": "Kick-off",
+                    "position": "4532247",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "1 - 104:08",
+                    "label": "Goal",
+                    "position": "6248963",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 105:03",
+                    "label": "Kick-off",
+                    "position": "6303288",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/SETU_Carlow_vs_TUS_Midwest_c0-gJQtL9Tc/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5637",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:01",
+                    "label": "Goal",
+                    "position": "1501849",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 25:49",
+                    "label": "Kick-off",
+                    "position": "1549817",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 59:28",
+                    "label": "Kick-off",
+                    "position": "3568938",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 61:59",
+                    "label": "Goal",
+                    "position": "3719357",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 62:33",
+                    "label": "Kick-off",
+                    "position": "3753383",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 88:11",
+                    "label": "Goal",
+                    "position": "5291724",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 89:33",
+                    "label": "Kick-off",
+                    "position": "5373471",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/CA_Bandeirantes_vs_Uniao_FC_FvviGqr7_eo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:10",
+                    "label": "Kick-off",
+                    "position": "10526",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:11",
+                    "label": "Kick-off",
+                    "position": "3911638",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:14",
+                    "label": "Goal",
+                    "position": "6314702",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 108:07",
+                    "label": "Kick-off",
+                    "position": "6487355",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 115:11",
+                    "label": "Goal",
+                    "position": "6911625",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 117:52",
+                    "label": "Kick-off",
+                    "position": "7072749",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 118:06",
+                    "label": "Goal",
+                    "position": "7086984",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 120:19",
+                    "label": "Kick-off",
+                    "position": "7219600",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/JD_Helena_vs_Inter_Marincek_imPG4novcP0/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5650",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:11",
+                    "label": "Kick-off",
+                    "position": "3551068",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 95:07",
+                    "label": "Goal",
+                    "position": "5707739",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 96:17",
+                    "label": "Kick-off",
+                    "position": "5777183",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 114:18",
+                    "label": "Goal",
+                    "position": "6858129",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 115:17",
+                    "label": "Kick-off",
+                    "position": "6917244",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Celtic_United_FC_vs_Howth_FC_3VrXzsfCmeQ/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2448",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 18:48",
+                    "label": "Goal",
+                    "position": "1128167",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:19",
+                    "label": "Kick-off",
+                    "position": "1159746",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 51:43",
+                    "label": "Kick-off",
+                    "position": "3103867",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:35",
+                    "label": "Goal",
+                    "position": "6335045",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:29",
+                    "label": "Kick-off",
+                    "position": "6389249",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/B_Munchen_vs_Chelsea_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3050",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:12",
+                    "label": "Goal",
+                    "position": "192470",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:33",
+                    "label": "Kick-off",
+                    "position": "213417",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/University_of_Galway_vs_Dundalk_IT_Ym70b5ctfqU/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "0",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 09:47",
+                    "label": "Goal",
+                    "position": "587554",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 10:36",
+                    "label": "Kick-off",
+                    "position": "636950",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 14:59",
+                    "label": "Goal",
+                    "position": "899308",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 15:46",
+                    "label": "Kick-off",
+                    "position": "946542",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:07",
+                    "label": "Kick-off",
+                    "position": "3547622",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 79:02",
+                    "label": "Goal",
+                    "position": "4742790",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 79:49",
+                    "label": "Kick-off",
+                    "position": "4789113",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 98:34",
+                    "label": "Goal",
+                    "position": "5914702",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 99:47",
+                    "label": "Kick-off",
+                    "position": "5987499",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Aguias_Da_Vila_vs_Geraldo_Cc_w0qxr_DhNd4/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4691",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 56:34",
+                    "label": "Kick-off",
+                    "position": "3394197",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/ATU_Galway_B_vs_Marino_College_iWCw6b-09sg/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4035",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:09",
+                    "label": "Kick-off",
+                    "position": "3669529",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 144:43",
+                    "label": "Goal",
+                    "position": "8683297",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 146:08",
+                    "label": "Goal",
+                    "position": "8768794",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 148:06",
+                    "label": "Goal",
+                    "position": "8886817",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 148:45",
+                    "label": "Goal",
+                    "position": "8925222",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 149:24",
+                    "label": "Goal",
+                    "position": "8964679",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 149:56",
+                    "label": "Goal",
+                    "position": "8996035",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Vila_Maria_vs_Casa_Das_Mangueiras_27sPjZfKiHY/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6122",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:26",
+                    "label": "Goal",
+                    "position": "266697",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 04:52",
+                    "label": "Kick-off",
+                    "position": "292345",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:58",
+                    "label": "Kick-off",
+                    "position": "3598282",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 77:32",
+                    "label": "Goal",
+                    "position": "4652953",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Faxina_vs_Pouso_Alegre_CJoNyljb21E/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:01",
+                    "label": "Kick-off",
+                    "position": "1096",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 41:13",
+                    "label": "Goal",
+                    "position": "2473967",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 41:49",
+                    "label": "Kick-off",
+                    "position": "2509004",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:57",
+                    "label": "Kick-off",
+                    "position": "3597933",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Planalto_vs_Vila_Tiao_9AZ1o3U8F3A/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4218",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 51:44",
+                    "label": "Kick-off",
+                    "position": "3104960",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 73:27",
+                    "label": "Goal",
+                    "position": "4407638",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 74:27",
+                    "label": "Kick-off",
+                    "position": "4467179",
+                    "team": "home",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Brahmeiros_vs_Parque_Brasilia_FC_B7QExQXgEPk/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4371",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 56:47",
+                    "label": "Kick-off",
+                    "position": "3407148",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 102:47",
+                    "label": "Goal",
+                    "position": "6167199",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:49",
+                    "label": "Goal",
+                    "position": "6229153",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:42",
+                    "label": "Goal",
+                    "position": "6282044",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 105:31",
+                    "label": "Goal",
+                    "position": "6331016",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 106:32",
+                    "label": "Goal",
+                    "position": "6392701",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 109:35",
+                    "label": "Goal",
+                    "position": "6575896",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 112:29",
+                    "label": "Goal",
+                    "position": "6749377",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Vila_Virginia_vs_JD_Paulista_ZhHXqzDMFH4/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5879",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:49",
+                    "label": "Goal",
+                    "position": "229926",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 69:25",
+                    "label": "Kick-off",
+                    "position": "4165577",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/EC_VILA_CARVALHO_vs_CA_PAULISTA_3YsP-IvO0B8/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2256",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 56:33",
+                    "label": "Kick-off",
+                    "position": "3393349",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Gremio_Avelino_vs_Quintinense_Fc_83W47ShQZ-o/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:04",
+                    "label": "Kick-off",
+                    "position": "4521",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 17:25",
+                    "label": "Goal",
+                    "position": "1045473",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:57",
+                    "label": "Kick-off",
+                    "position": "1197213",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 61:21",
+                    "label": "Kick-off",
+                    "position": "3681913",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 82:34",
+                    "label": "Goal",
+                    "position": "4954607",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 85:14",
+                    "label": "Kick-off",
+                    "position": "5114646",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Quarryvale_FC_vs_Celtic_United_FZ2OukKrxwE/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "0",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 05:33",
+                    "label": "Goal",
+                    "position": "333315",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:12",
+                    "label": "Kick-off",
+                    "position": "372397",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 11:01",
+                    "label": "Goal",
+                    "position": "661526",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 11:37",
+                    "label": "Kick-off",
+                    "position": "697492",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 41:28",
+                    "label": "Goal",
+                    "position": "2488226",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 42:07",
+                    "label": "Kick-off",
+                    "position": "2527408",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 44:39",
+                    "label": "Goal",
+                    "position": "2679280",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Sfera_Fc_vs_Osasco_Audax_0nGt7o5Xo_M/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:06",
+                    "label": "Kick-off",
+                    "position": "6800",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 57:38",
+                    "label": "Kick-off",
+                    "position": "3458683",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 58:41",
+                    "label": "Goal",
+                    "position": "3521370",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 79:59",
+                    "label": "Goal",
+                    "position": "4799054",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 59:31",
+                    "label": "Kick-off",
+                    "position": "3571406",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 80:38",
+                    "label": "Kick-off",
+                    "position": "4838795",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 99:34",
+                    "label": "Goal",
+                    "position": "5974194",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 100:12",
+                    "label": "Goal",
+                    "position": "6012683",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 100:53",
+                    "label": "Goal",
+                    "position": "6053504",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 101:34",
+                    "label": "Goal",
+                    "position": "6094779",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 102:21",
+                    "label": "Goal",
+                    "position": "6141846",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 103:48",
+                    "label": "Goal",
+                    "position": "6228733",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 104:27",
+                    "label": "Goal",
+                    "position": "6267217",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/New_Castle_vs_Arsenal_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:05",
+                    "label": "Kick-off",
+                    "position": "5375",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:12",
+                    "label": "Goal",
+                    "position": "192279",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:33",
+                    "label": "Kick-off",
+                    "position": "213473",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 07:38",
+                    "label": "Goal",
+                    "position": "458853",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 08:01",
+                    "label": "Kick-off",
+                    "position": "481627",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 14:25",
+                    "label": "Kick-off",
+                    "position": "865955",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 20:39",
+                    "label": "Goal",
+                    "position": "1239795",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 21:07",
+                    "label": "Kick-off",
+                    "position": "1267051",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 25:39",
+                    "label": "Goal",
+                    "position": "1539367",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 25:57",
+                    "label": "Kick-off",
+                    "position": "1557126",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Alianca_Atletica_vs_Palmeira_JDvTa-ZPKuI/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:00",
+                    "label": "Kick-off",
+                    "position": "0",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 16:25",
+                    "label": "Goal",
+                    "position": "985717",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 49:32",
+                    "label": "Kick-off",
+                    "position": "2972500",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 16:59",
+                    "label": "Kick-off",
+                    "position": "1019167",
+                    "team": "away",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Jd_Audir_vs_ECUP_z3BVDou0PVY/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2350",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 02:43",
+                    "label": "Goal",
+                    "position": "163371",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 03:22",
+                    "label": "Kick-off",
+                    "position": "202409",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 18:55",
+                    "label": "Kick-off",
+                    "position": "1135733",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Cruzeira_vs_JD_Silveira_KCaUACfPeg4/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3176",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 39:18",
+                    "label": "Kick-off",
+                    "position": "2358375",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 68:10",
+                    "label": "Goal",
+                    "position": "4090404",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 69:15",
+                    "label": "Kick-off",
+                    "position": "4155570",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Psg_vs_Roma_V7RIu-HwTMo/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:03",
+                    "label": "Kick-off",
+                    "position": "3917",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:07",
+                    "label": "Goal",
+                    "position": "367130",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 06:27",
+                    "label": "Kick-off",
+                    "position": "387100",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 12:27",
+                    "label": "Kick-off",
+                    "position": "747344",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 22:47",
+                    "label": "Goal",
+                    "position": "1367167",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 23:36",
+                    "label": "Kick-off",
+                    "position": "1416054",
+                    "team": "home",
+                    "visibility": "visible"
+                }
+            ],
+            "input_type": "features"
+        },
+        {
+            "path": "train/Cruzeiro_vs_Alphaville_xL4ixHiZunU/1_ResNet.npy",
+            "annotations": [
+                {
+                    "gameTime": "1 - 00:02",
+                    "label": "Kick-off",
+                    "position": "2611",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:00",
+                    "label": "Goal",
+                    "position": "1140479",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "1 - 19:37",
+                    "label": "Kick-off",
+                    "position": "1177051",
+                    "team": "away",
+                    "visibility": "not-visible"
+                },
+                {
+                    "gameTime": "2 - 39:46",
+                    "label": "Kick-off",
+                    "position": "2386458",
+                    "team": "away",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 65:48",
+                    "label": "Goal",
+                    "position": "3948771",
+                    "team": "home",
+                    "visibility": "visible"
+                },
+                {
+                    "gameTime": "2 - 66:27",
+                    "label": "Kick-off",
+                    "position": "3987661",
+                    "team": "away",
+                    "visibility": "not-visible"
+                }
+            ],
+            "input_type": "features"
+        }
+    ],
+    "labels": [
+        "Kick-off",
+        "Goal"
+    ]
+}
